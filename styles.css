@@ -1,0 +1,50 @@
+h1 {
+    color: red;
+}
+h2 {
+    color: tomato;
+    font-style: italic;
+}
+.con{
+    color: brown;
+     line-height: 40px;
+    
+}
+
+ol{
+   
+}
+.lt{
+    text-decoration: line-through;
+    ;
+
+}
+.bg{
+    background-color: yellow;
+    font-weight: bold;
+    
+
+}
+#lyt{
+    text-decoration: underline;
+    font-style: italic;
+}
+
+ul{
+    color: brown;
+}
+
+p{
+    color: brown;
+}
+a{
+    background-color: yellow;
+    font-style: italic;
+    color: red;
+    font-weight: bold;
+    text-decoration: none;
+}
+.con2{
+    letter-spacing: 5px;
+
+}
